@@ -1,0 +1,10 @@
+accept:except
+adverse:averse
+advice:advise
+affect:effect
+aisle:isle
+aloud:allowed
+altar:alter
+amoral:immoral
+appraise:apprise
+assent:ascent
