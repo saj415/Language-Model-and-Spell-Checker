@@ -1,5 +1,5 @@
 Sachin Joshi
-Project 1 NLP 
+Project Spell Checker NLP 
 CSE 498 Fall 2017
 
 ProbEstimator.java
