@@ -25,4 +25,17 @@ The class outputs the following text files:
 1. results/test_sent_fake.txt: This file contains the sentences formed from the unigrams present in the file test_tokens_fake.txt.
 2. results/all_confusingWordsBigrams.txt:This file contains all the possible bigrams that contain the any of the confusing token.
 3.test_predictions.txt: This file contains the file result with the sentence id and the location of the token where an error is found.           
- 
+Compiling and Running the Project
+Use the bash files to compile and run the src files.
+./build_java.sh tokenize
+./build_java.sh estimate
+./build_java.sh predict
+./build_java.sh evaluate
+
+./run_java.sh tokenize
+./run_java.sh estimate
+./run_java.sh predict
+./run_java.sh evaluate
+
+Test your bash scripts to make sure that, by running the above 8 lines, your project compiles and produces the desirable output.
+
